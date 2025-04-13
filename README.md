@@ -1,2 +1,2 @@
 # legal-document-summarizer
-# will add codes after patent result
+# will add codes after patent
